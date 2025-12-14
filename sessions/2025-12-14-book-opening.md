@@ -25,3 +25,13 @@
 
 ---
 
+## Q: Where does generosity fit in the framework? Is choosing suboptimally for others a feature or an exception?
+
+**A:** Generosity is a feature of the system and opens doors that self-oriented choices don't have. Generosity is gambling with good positioning. I could take advantage of every opportunity, but that would lock me out of opportunities that others have access to and I never will. Leaving the door open to generosity is saying "The choices I have at my disposal may not be the ideal in the long term." If you let others flourish, you may encourage them to take you along. But accept that generosity is seen by God, and He rewards.
+
+**Captured insight:** Generosity is strategic, not anti-strategic. It's a gamble that your visible options aren't your best long-term options. Pure self-interest locks doors. Letting others flourish may get you invited through doors you couldn't open alone. And: God sees and rewards.
+
+**Status:** Resolved - Connects to infinite games (Part III) and Providence (Part V)
+
+---
+
