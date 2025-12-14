@@ -55,3 +55,13 @@
 
 ---
 
+## Q: What's the voice of the opening? Academic, direct address, or something else? Does "you" start from sentence one?
+
+**A:** There are forces beyond our control. There are forces in our control. There are players in a game that is played through the use of these forces. There are those who choose not to play, both to their advantage and disadvantage, depending on the player. But the game exists. Some are unaware, to their advantage and disadvantage, depending on who's playing them. You must be aware to play. When you choose when to merge, you must be aware. When you choose what to eat, you must be aware.
+
+**Captured insight:** Voice is declarative, almost prophetic. Short sentences. Establishes the game's existence first (forces, players, awareness) before bringing in "you." Not academic, not immediately second-person. Pattern: declare reality → narrow to reader. "The game exists. You must be aware."
+
+**Status:** Resolved - Opening voice established
+
+---
+
