@@ -35,3 +35,13 @@
 
 ---
 
+## Q: How explicitly Christian does the book need to be? Does the framework work for secular readers on strategy alone, or is providence load-bearing?
+
+**A:** My answer could be considered a two-facet answer, where both are correct. I think we can build it so that it could be read as general wisdom, but I want to be explicit that this is a Christian's book, maybe not a Christian book.
+
+**Captured insight:** Two-layer structure. Layer 1: General wisdom that works on strategy alone (generosity as long-game, doors opened by letting others flourish). Layer 2: The author's worldview is explicit - this is a Christian writing, not hiding it, but not requiring the reader to share it. "A Christian's book, not a Christian book."
+
+**Status:** Resolved - Key framing for tone and audience
+
+---
+
