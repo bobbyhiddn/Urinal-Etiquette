@@ -15,3 +15,13 @@
 
 ---
 
+## Q: The ending question - "does it matter if they make the best decision at all?" - seems to undercut the premise. What's the actual answer?
+
+**A:** Yes. The best answer must be known. Then you can choose to take a less than perfect choice for any motive of your choice. Want to leave the best spot for others? Sure. Want to take it for yourself? Go ahead. But don't stumble into the ideal or unideal. Making the best choice is the path of the player. Everyone else makes their choices based on the choice you make.
+
+**Captured insight:** Know the optimal, then choose freely. The sin isn't taking a suboptimal position - it's not knowing you're doing it. Players know the geometry; non-players stumble. Your choice becomes others' constraint.
+
+**Status:** Resolved - Core thesis clarified
+
+---
+
