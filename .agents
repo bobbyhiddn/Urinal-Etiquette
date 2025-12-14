@@ -1,0 +1,60 @@
+# AI-Assisted Book Writing Method
+
+This repository uses AI collaboration for book writing. Below is the method for working on chapters.
+
+## The Method
+
+### Before Writing Each Chapter
+
+Before beginning work on any chapter, you must:
+
+1. **Provide a Well-Sized Description** - Submit a clear, comprehensive description of the chapter's goal. This description should include:
+   - The main objective of the chapter
+   - Key themes or concepts to cover
+   - How it connects to previous and subsequent chapters
+   - Any specific points or arguments to address
+
+2. **Reference the Living Outline** - The `OUTLINE.md` file in the root of this repository is the source of truth for the book's structure. Always review it before starting a chapter.
+
+### The Living Outline
+
+The outline (`OUTLINE.md`) is **living documentation** that evolves as the book develops:
+
+- It lives in the root of the repository
+- It should be updated as new insights emerge
+- It enables a "spiral of context" - information discovered later can inform earlier content
+
+### Spiral of Context
+
+The "spiral of context" approach means:
+
+1. **Forward Integration** - Later chapters can build on established concepts
+2. **Backward Integration** - If something written later benefits earlier content, we can revisit and incorporate those improvements
+3. **Dynamic Adjustment** - The book structure is flexible and can be reorganized as understanding deepens
+
+### Repository Structure
+
+```
+/
+├── .agents           # This file - explains the AI collaboration method
+├── OUTLINE.md        # Living outline of the book
+├── README.md         # Project overview
+└── sections/         # Main content folder
+    ├── section-1/    # One folder per section
+    │   ├── chapter-1/
+    │   │   └── chapter.md
+    │   ├── chapter-2/
+    │   │   └── chapter.md
+    │   └── ...
+    ├── section-2/
+    │   └── ...
+    └── ...
+```
+
+### Workflow
+
+1. **Review** the current `OUTLINE.md`
+2. **Discuss** the chapter goal with a well-sized description
+3. **Write** the chapter content
+4. **Update** the outline if new insights emerge
+5. **Consider** if any previous content could benefit from what was learned
