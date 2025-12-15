@@ -49,8 +49,20 @@
 - Hedging language ("perhaps," "maybe," "it could be argued")
 - Over-explaining the obvious
 - Losing the thread - always returns to core thesis
+- **"Not X, it's Y" constructions** - author correction
+- **Em-dashes (—)** - absolutely zero
 
 **Status:** Resolved - Voice markers captured from sample
+
+---
+
+## Q: Does the voice stay the same across genres? Intuition Engine is technical; Urinal Strategy is wisdom literature.
+
+**A:** Avoid "Not X, it's Y" constructions. Absolutely zero em-dashes.
+
+**Captured insight:** Specific style constraints that apply regardless of genre. The "Not X, it's Y" pattern appears frequently in Intuition Engine but should be avoided in Urinal Strategy. Em-dashes are banned entirely.
+
+**Status:** Resolved - Style constraints added
 
 ---
 
