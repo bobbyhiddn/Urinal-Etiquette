@@ -39,16 +39,25 @@ The "spiral of context" approach means:
 ├── .agents           # This file - explains the AI collaboration method
 ├── OUTLINE.md        # Living outline of the book
 ├── README.md         # Project overview
+├── compile.py        # Book compilation script
+├── compiled/         # Output folder for compiled book
+│   └── book.md       # The assembled book
+├── sessions/         # Quiz author Q&A transcripts
+│   └── YYYY-MM-DD-topic.md
 └── sections/         # Main content folder
-    ├── section-1/    # One folder per section
+    ├── prelude/
+    │   ├── prelude.md    # Chapter notes/outline
+    │   └── prose.md      # Pure prose for compilation
+    ├── part-1/
     │   ├── chapter-1/
-    │   │   └── chapter.md
+    │   │   ├── chapter.md    # Chapter notes/outline
+    │   │   └── prose.md      # Pure prose for compilation
     │   ├── chapter-2/
-    │   │   └── chapter.md
-    │   └── ...
-    ├── section-2/
-    │   └── ...
-    └── ...
+    │   └── chapter-3/
+    ├── part-2/           # Chapters 4-8
+    ├── part-3/           # Chapters 9-11
+    ├── part-4/           # Chapters 12-14
+    └── part-5/           # Chapters 15-17
 ```
 
 ### Workflow
@@ -90,3 +99,54 @@ Before writing chapters, use the Quiz Author protocol to extract and clarify the
 - APPLICATION: Test practical use
 
 Session files become authoritative source material for chapter writing.
+
+---
+
+## Book Compilation
+
+The book is compiled from individual `prose.md` files into a single `compiled/book.md`.
+
+### File Types
+
+Each chapter folder contains two file types:
+
+- **chapter.md / prelude.md**: Notes, outlines, goals, and planning materials. Not compiled.
+- **prose.md**: Pure prose. This is what gets compiled into the book. No metadata, no headers beyond the chapter title.
+
+### Compilation Command
+
+```bash
+python compile.py
+```
+
+Options:
+- `--output` / `-o`: Custom output path (default: `compiled/book.md`)
+
+### What Compile Does
+
+1. Generates title page with subtitle
+2. Builds table of contents from book structure
+3. Inserts part dividers with epigraphs
+4. Pulls in prose.md content for each section
+5. Marks unwritten chapters as "not yet written"
+6. Adds compilation timestamp and progress count
+
+### Adding New Chapters
+
+To add a chapter to the book, update `BOOK_STRUCTURE` in `compile.py`:
+
+```python
+{
+    "type": "section",
+    "path": "sections/part-N/chapter-N/prose.md",
+    "toc_title": "Chapter N: Title Here"
+}
+```
+
+### Progress Tracking
+
+Running `compile.py` reports:
+- Sections found (with content)
+- Sections missing (prose.md empty or absent)
+
+The compiled book shows progress at the bottom.
