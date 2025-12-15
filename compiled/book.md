@@ -9,7 +9,7 @@
 
 **Part I: Seeing the Room**
 
-- Chapter 1: Urinal Strategy *(not yet written)*
+- Chapter 1: Urinal Strategy
 - Chapter 2: Most People Aren't Playing *(not yet written)*
 - Chapter 3: The Diagnostic Method *(not yet written)*
 
@@ -76,9 +76,53 @@ Every room has a geometry no one explained to you. This book is the explanation 
 ---
 
 
-## Chapter 1: Urinal Strategy
+You already know how to play. You've been playing your whole life. The question is whether you've been playing consciously or stumbling through games you didn't know you'd entered.
 
-*This chapter has not yet been written.*
+Every room you walk into has a game running. The restaurant, the meeting, the conversation with your wife after a hard day. There are positions and players and moves being made whether you see them or not. Most people don't see them. They walk through rooms like sleepwalkers, responding to stimuli, reacting to what happens to them instead of choosing what happens next. They're not bad people. They're not even losing, necessarily. They're just absent. And absence has a cost.
+
+The game is open to everyone. There's no membership fee, no secret handshake, no bloodline requirement. The only currency is attention. Pay attention and you can play. Stop paying attention and you'll still be in the game, but the game will be playing you.
+
+I'm not going to teach you anything you don't already know. I'm going to wake you up to what you've been doing unconsciously so you can start doing it on purpose. You've calculated before. You've positioned before. You've read a room and chosen where to stand, what to say, when to stay silent. You did it this week. You did it today. The difference between you and the man who never wins is that he does all of this on accident, and you're about to do it with your eyes open.
+
+Think about the last time you walked into a bathroom with five urinals and nobody else there. You didn't stand in the middle. You know you didn't. You took an end. You maximized distance from whoever might come in next. You calculated exposure, minimized risk, chose a position that gave you the best chance of completing your mission without unnecessary contact. You did this without thinking about it. You did this without anyone teaching you. The strategy was obvious, so obvious that you never named it.
+
+But you have a name for the man who takes the middle urinal. You've seen him. He walks to the approximate center because centers feel vaguely safe, and now he's standing in the one position that forces everyone who enters after him into discomfort. If someone takes position one, there's only one urinal of buffer. If someone takes position five, same problem. The middle urinal man has constrained the entire room by not paying attention. He wasn't malicious. He wasn't playing against you. He wasn't playing at all.
+
+You've worked with this man. You've sat in meetings with him. He schedules calls at times that make no sense for anyone except himself, and he doesn't even benefit because he didn't think about it. He replies all when he should reply to one. He takes up space in conversations without noticing the space exists. He's not your enemy. He's not even a competitor. He's furniture that moves. And you've been him. I've been him. We've all taken the middle urinal in some room, at some moment, because we stopped paying attention and the game kept going without us.
+
+Here's what I want you to understand: the correct position exists. In the bathroom, it's the end. In the meeting, it's the seat that gives you the view you need. In the conversation, it's the timing and the tone that lands your point without triggering defensiveness. The correct position exists, and you can learn to see it. But seeing it requires accepting that there's something to see. Most people resist this. They want rooms to be neutral spaces where everyone's just being themselves. That's a nice idea. It's also a lie they tell themselves so they don't have to pay attention.
+
+I was at dinner recently. The kitchen was struggling. We waited an hour for food, and when it finally arrived, my mother-in-law's dish had an allergen she couldn't eat. The server had been great all night despite the chaos that wasn't her fault. She came back to the table, apologized, and said she was going to get the manager because she could see the trouble we'd been dealing with.
+
+My mother-in-law started to wave it off. "Don't worry about it," she began to say. I cut her off, gently but firmly. "Thank you," I said to the server. "That would be great."
+
+The manager came. I told her that our server had been excellent, but the experience had been rough. I said I wasn't asking for a full comp, but I needed some kind of justice served. The manager agreed immediately, cut the bill in half, and apologized. We left with a reasonable price, a protected server, and my mother-in-law's health intact.
+
+If I had let the wave-off happen, we would have paid full price for a meal that nearly made someone sick. No justice. Just discomfort absorbed and absorbed until everyone goes home slightly worse off than they should be. My mother-in-law wasn't wrong to want peace. She was wrong about what peace costs.
+
+This is what I mean by the middle urinal. Waving it off feels like harmony. It feels like you're being easy, keeping the peace, not making a scene. But you're not keeping the peace. You're forfeiting your position because you think it helps everyone. It doesn't. The restaurant still had problems that needed to surface. The server still deserved to have her good work noted. The bill still didn't reflect the experience. Waving it off helps no one. It just feels like it does, and that feeling is the trap.
+
+Peace isn't the absence of conflict. Peace is justice. It's making sure the low isn't too low and the high isn't too high. When I told the manager I wanted justice for our disservice, I wasn't being aggressive. I was being accurate. Something went wrong, and the correct response was acknowledgment and correction. Waving it off would have been the aggressive move, aggressive against myself, against my party, against the truth of what happened.
+
+I had to override something to say what I said. There's always discomfort in conviction. The pull to let someone else's game play out, even when it hurts you, is strong. It feels virtuous. It feels generous. But generosity without attention is just surrender dressed up in nice clothes.
+
+So here are the players in every room. Learn them.
+
+The absent player doesn't know a game is happening. He takes the middle urinal. He waves off the manager. He sits in the seat that blocks his own view and constrains everyone else. He's not playing badly because he's not playing at all. His decisions are reactions to the immediate moment with no awareness of position, no calculation of exposure, no sense that other players exist. He thinks the room is neutral. He thinks everyone's just being themselves. He pays the cost of his absence and calls it normal.
+
+The misguided peacekeeper knows something is happening but believes the right move is always to yield. She waves off every offer of justice. She apologizes when she's been wronged. She thinks surrender is kindness and calls it keeping the peace. But the peace she keeps is false. It's the absence of expressed conflict, not the presence of justice. She's paying for other people's mistakes and calling it generosity. She's the middle urinal man with a philosophy.
+
+The conscious player sees the room. He knows there are positions and players and moves. He calculates exposure. He weighs options. He understands that every choice constrains future choices, his own and others'. He doesn't always take the optimal position. Sometimes he yields on purpose, for reasons he can name. But when he yields, he knows he's yielding. When he holds, he knows he's holding. He's not stumbling through the game. He's playing it.
+
+I'm not here to make you ruthless. I'm here to make you awake. The conscious player isn't the one who dominates every room. He's the one who sees every room. What he does with that sight is his choice. Sometimes the correct move is to take the end urinal. Sometimes it's to give someone else the better position because you can afford to and they can't. The point isn't winning every exchange. The point is knowing there's an exchange happening.
+
+You've felt the difference. You've been in rooms where you were asleep and rooms where you were awake. The awake version of you noticed where the decision-maker was sitting. He noticed who controlled the whiteboard, who spoke first, who stayed silent and why. He noticed the moment when the conversation shifted and positioned his contribution to land after the shift, not before. He wasn't manipulating. He was playing. There's a difference, and the difference is attention.
+
+The game is not optional. You're in it whether you signed up or not. The only question is whether you're playing or being played. The absent player gets played by everyone, including himself. The misguided peacekeeper gets played by anyone willing to let her yield. The conscious player might still lose, but at least he loses on purpose, making trades he can name for reasons he believes in.
+
+I'm writing this for my son, for when he's old enough to need it. But he's not old enough yet, so I'm writing it for you. You asked me how to grow. This is how. Wake up to the room. See the positions. Notice who's playing and who's absent. Calculate the cost of your choices before you make them. And when you feel the pull to wave it off, to take the middle urinal, to surrender your position for a peace that isn't peace, override it. The discomfort you feel is the price of consciousness. It's cheaper than the price of sleep.
+
+The bathroom was never about bathrooms. You knew that. The urinal was just the room where you first noticed what you'd been doing all along. Now you have a name for it. Now you can see it everywhere. The game is open. The currency is attention. Pay it, and play.
 
 
 ## Chapter 2: Most People Aren't Playing
@@ -200,6 +244,6 @@ Every room has a geometry no one explained to you. This book is the explanation 
 ---
 
 
-*Compiled on 2025-12-15 02:26*
+*Compiled on 2025-12-15 03:35*
 
-*Sections complete: 1/18*
+*Sections complete: 2/18*
