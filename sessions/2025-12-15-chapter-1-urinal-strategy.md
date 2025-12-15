@@ -110,5 +110,18 @@ The manager comes, I tell her, our server has been great, but there have been nu
 
 ## Q8 (revised): The Prelude establishes "the game exists everywhere." What should Chapter 1 give the reader that the Prelude didn't? What's "see your next move" mean in practical terms?
 
+**A:** Brainstorm presented paths. Decision: B + C. Pattern recognition (how to see the board) combined with player types (who's in the game). Need a call to action at the start.
+
+**Captured insight:**
+- Chapter 1 = pattern recognition + player types
+- Teach how to identify when a game is being played
+- Introduce the cast: absent player, wave-off, the one who sees
+- Reader identifies which type they've been
+- Call to action at the start of the chapter
+
+---
+
+## Q9: What's the call to action? What do you want to challenge the reader to do or see before you teach them the patterns and player types?
+
 **A:** [Awaiting response]
 
