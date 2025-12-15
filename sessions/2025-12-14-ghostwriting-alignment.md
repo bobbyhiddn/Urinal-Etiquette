@@ -15,3 +15,42 @@
 
 ---
 
+## Q: What makes writing sound like you? What markers should I hit or avoid?
+
+**A:** I'll let you determine that from my writing and my responses. [Author provided examples/Intuition_Engine.md as voice sample]
+
+**Claude's analysis of voice markers from Intuition_Engine.md:**
+
+**Structure:**
+- Long-form, deeply organized with clear headers
+- Thesis stated early and explicitly ("Here's my thesis: AI does not deduce; it proposes.")
+- Pattern: Statement → Explanation → Example → Implication → Return to thesis
+
+**Sentence rhythm:**
+- Mixes short declarative punches with longer explanatory sentences
+- "This isn't a flaw in our tools - it's a mathematical impossibility."
+- Parallel construction: "Not mystical consciousness, not human replacement, but practical systems..."
+
+**Tone:**
+- Technical but accessible - terms explained on first use, never dumbed down
+- Dry humor arrives unexpectedly ("Thanks, ChatGPT, I never would have thought of that.")
+- Self-aware commentary ("Yes, I'm getting meta about being meta. Deal with it.")
+- Confident without being preachy
+
+**Rhetorical moves:**
+- Grounds abstraction in concrete examples immediately
+- Uses extended metaphors that carry through (bowling lanes/bumpers)
+- References sources naturally, woven in rather than proof-texted
+- Direct address to reader when teaching ("You walk into...")
+- First-person when sharing opinion ("I've put a lot of thought into it")
+
+**What to avoid:**
+- Generic platitudes
+- Hedging language ("perhaps," "maybe," "it could be argued")
+- Over-explaining the obvious
+- Losing the thread - always returns to core thesis
+
+**Status:** Resolved - Voice markers captured from sample
+
+---
+
