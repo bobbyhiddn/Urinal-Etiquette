@@ -1,4 +1,4 @@
-# Urinal Etiquette
+# Urinal Strategy
 ## The Ethics of Making the Correct Decision
 
 > *A book about the ethics of the best choice.*

@@ -101,3 +101,13 @@
 
 ---
 
+## Q: Title clarification
+
+**A:** The title of the book is "Urinal Strategy" (not "Urinal Etiquette").
+
+**Captured insight:** Full title: "Urinal Strategy: The Ethics of Making the Correct Decision"
+
+**Status:** Resolved
+
+---
+
