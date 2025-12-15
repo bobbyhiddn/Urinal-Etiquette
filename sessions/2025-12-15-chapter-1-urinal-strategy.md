@@ -22,5 +22,17 @@
 
 ## Q2: Exposure - what does minimizing exposure mean in the urinal context? Physical exposure? Social exposure? Both?
 
+**A:** Minimizing exposure is avoiding seeing something only a romantic partner should see, and who actually wants to talk at a urinal with strangers? Exposure is getting in, making as little contact as possible with the other players and exfilling after the job is done.
+
+**Captured insight:**
+- Physical exposure: avoid seeing what shouldn't be seen
+- Social exposure: no one wants to talk at urinals
+- Framing: it's a mission - infil, execute, exfil
+- Contact = risk (both visual and verbal)
+
+---
+
+## Q3: You mentioned height as a factor. How does height affect the calculus?
+
 **A:** [Awaiting response]
 
