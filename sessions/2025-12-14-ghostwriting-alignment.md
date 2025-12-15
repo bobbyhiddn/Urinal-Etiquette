@@ -66,3 +66,16 @@
 
 ---
 
+## Q: What replaces technical scaffolding in wisdom literature? What carries the weight when there's no code?
+
+**A:** Visual diagrams and flows to illustrate methods. Mix of extended and punchy chapters. Punchy chapters when building into a new section. If you need a scenario, ask for one instead of making it up.
+
+**Captured insight:**
+- **Diagrams/flows**: Visual aids to ground abstract concepts (replaces code blocks)
+- **Chapter rhythm**: Extended chapters for depth, punchy chapters for transitions into new sections
+- **Scenarios**: Ask, don't invent. This maintains the force multiplication model. Author provides seed scenarios; AI amplifies. No AI-invented examples.
+
+**Status:** Resolved - Structure and scaffolding guidance
+
+---
+
