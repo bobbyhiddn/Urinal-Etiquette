@@ -44,5 +44,22 @@
 
 ## Q4: The urinal room has clear geometry - positions, exposure, minimal contact. When the reader leaves the bathroom chapter, what's the first "real" room you want them to see through this lens?
 
+**A:** The answer is every room. Here's an example. I just came back from dinner and my server was a nice lady, but the kitchen was screwing up orders. We waited an hour for food. When we got our food, it was delivered with an allergen. She came back and apologized and said she was going to grab the manager because she realized the trouble we had been dealing with. My mother-in-law who had the allergy started to say, "Don't worry about it", but I cut her off politely and said, "Thank you, that would be great."
+
+The manager comes, I tell her, our server has been great, but there have been numerous issues. I'm not asking for a full comp, but I need some kind of justice served. The manager says absolutely, that's no issue at all and cuts the cost in half for the meal. If I had let the conversation play how it was, we would have paid full price and no justice would be served. As it stood, we got a heavy discount, the server's reputation was maintained, and my in-law didn't get sick. But it required standing firm and not compromising. This is just one room, and the game is played in all of them.
+
+**Captured insight:**
+- Every room has the geometry
+- Seeing the opening: server offered to get manager = opportunity
+- Cutting off the instinct to "wave it off" = holding position
+- "I'm not asking for full comp, but I need justice served" = knowing what to ask for
+- Result: discount, server protected, health preserved
+- Required: standing firm, not compromising
+- The person who doesn't see the room would have paid full price
+
+---
+
+## Q5: The mother-in-law's instinct was to wave it off. What drives that instinct, and why is it the "middle urinal" of social situations?
+
 **A:** [Awaiting response]
 
