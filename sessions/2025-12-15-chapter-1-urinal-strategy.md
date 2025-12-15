@@ -34,5 +34,15 @@
 
 ## Q3: You mentioned height as a factor. How does height affect the calculus?
 
+**A:** It's mainly a joke. It's saying that you need to ensure that you can avoid a disadvantage in angle.
+
+**Captured insight:**
+- Height = angle disadvantage (light touch, humor)
+- Don't over-drill specifics; focus on extrapolation
+
+---
+
+## Q4: The urinal room has clear geometry - positions, exposure, minimal contact. When the reader leaves the bathroom chapter, what's the first "real" room you want them to see through this lens?
+
 **A:** [Awaiting response]
 
