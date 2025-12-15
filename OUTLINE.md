@@ -1,4 +1,5 @@
-# Urinal Etiquette - Book Outline
+# Urinal Etiquette
+## The Ethics of Making the Correct Decision
 
 > *A book about the ethics of the best choice.*
 
@@ -19,14 +20,20 @@ A methodology book disguised as a bathroom joke. The urinal is the entry point b
 
 ---
 
+## Prelude: The Geometry Exists
+- [x] Draft complete: [prelude.md](./sections/prelude/prelude.md)
+- Goal: Zoom from cosmic game theory → civilizational → career → daily → urinal. Establish that the reader already knows the geometry. They just never named it.
+
+---
+
 ## Part I: Seeing the Room
 
 *Before you can position, you must perceive.*
 
-### Chapter 1: The Geometry Exists
-- [x] Draft complete: [chapter.md](./sections/section-1/chapter-1/chapter.md)
-- Goal: Establish that every room has invisible architecture. Positions of power and vulnerability. Sightlines and blind spots. The urinal as the room where the rules are most obvious and least discussed.
-- Tools: The geometry is real; most people don't see it.
+### Chapter 1: Urinal Strategy
+- [ ] Not yet written
+- Goal: Now that the Prelude established geometry exists, teach the actual strategy. What IS the correct urinal choice? Why? What does this pattern teach about all rooms?
+- Tools: The algorithm of positioning. Maximize buffer. Minimize constraint on others (or don't).
 
 ### Chapter 2: Most People Aren't Playing
 - [ ] Not yet written

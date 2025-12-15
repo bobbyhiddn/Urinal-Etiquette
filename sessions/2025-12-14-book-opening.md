@@ -91,3 +91,13 @@
 
 ---
 
+## Q: Is Chapter 1 (~750 words) long enough for a 200-page, 5x9" book?
+
+**A:** No - needs ~3,000-3,500 words per chapter. But make this the Prelude. Chapter 1 should be "Urinal Strategy." Also, subtitle is "The Ethics of Making the Correct Decision."
+
+**Captured insight:** The zoom structure is a Prelude, not Chapter 1. Chapter 1 dives into actual strategy after the setup. Subtitle clarifies the book's purpose.
+
+**Status:** Resolved - Structure reorganized
+
+---
+
