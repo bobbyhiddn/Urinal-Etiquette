@@ -24,7 +24,7 @@ A methodology book disguised as a bathroom joke. The urinal is the entry point b
 *Before you can position, you must perceive.*
 
 ### Chapter 1: The Geometry Exists
-- [ ] Not yet written
+- [x] Draft complete: [chapter.md](./sections/section-1/chapter-1/chapter.md)
 - Goal: Establish that every room has invisible architecture. Positions of power and vulnerability. Sightlines and blind spots. The urinal as the room where the rules are most obvious and least discussed.
 - Tools: The geometry is real; most people don't see it.
 
