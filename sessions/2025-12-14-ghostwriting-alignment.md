@@ -79,3 +79,13 @@
 
 ---
 
+## Q: What format for diagrams? ASCII, Mermaid, descriptions for designers?
+
+**A:** Mermaid. I can render them easily.
+
+**Captured insight:** Use Mermaid syntax for all diagrams. Author can render to final format. Types of diagrams to consider: decision trees, room layouts, positioning maps, flow charts for methods.
+
+**Status:** Resolved - Mermaid for all visuals
+
+---
+
