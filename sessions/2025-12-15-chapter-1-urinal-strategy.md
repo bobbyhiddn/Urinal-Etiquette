@@ -99,5 +99,16 @@ The manager comes, I tell her, our server has been great, but there have been nu
 
 ## Q8: How does Chapter 1 land the reader after the Prelude? The Prelude says "geometry exists everywhere." What should the reader walk away knowing after Chapter 1 that they didn't know after the Prelude?
 
+**A:** Correction: "geometry" is not the core framing. The statement should be "the game exists everywhere, here's how to see your next move."
+
+**Captured insight:**
+- Core frame: "The game exists everywhere"
+- Chapter purpose: "Here's how to see your next move"
+- Not geometry (static) but game (dynamic, moves, players)
+
+---
+
+## Q8 (revised): The Prelude establishes "the game exists everywhere." What should Chapter 1 give the reader that the Prelude didn't? What's "see your next move" mean in practical terms?
+
 **A:** [Awaiting response]
 
