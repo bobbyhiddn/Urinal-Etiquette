@@ -61,5 +61,17 @@ The manager comes, I tell her, our server has been great, but there have been nu
 
 ## Q5: The mother-in-law's instinct was to wave it off. What drives that instinct, and why is it the "middle urinal" of social situations?
 
+**A:** Misguided peace. Making the decision to place yourself at disadvantage because you think it helps everyone.
+
+**Captured insight:**
+- "Misguided peace" = the middle urinal of social rooms
+- Self-disadvantage disguised as harmony
+- The wave-off feels like it helps but actually forfeits position
+- Middle urinal man thinks center is "safe" / wave-off thinks yielding is "kind"
+
+---
+
+## Q6: When you hold position (like saying "thank you, that would be great"), what's the internal experience? Is there discomfort? Do you have to override something?
+
 **A:** [Awaiting response]
 
