@@ -123,5 +123,17 @@ The manager comes, I tell her, our server has been great, but there have been nu
 
 ## Q9: What's the call to action? What do you want to challenge the reader to do or see before you teach them the patterns and player types?
 
+**A:** The call to action is to wake people up to play. This game is open to all, and the currency is attention.
+
+**Captured insight:**
+- Call to action: wake up to play
+- The game is open to all (not exclusive, not hidden)
+- Currency = attention (not money, not power, not status)
+- Paying attention is the entry fee
+
+---
+
+## Q10: We have 10 Q&As. Before I draft, one final check: Is there anything about Chapter 1's tone or structure that should differ from the Prelude? The Prelude was declarative, prophetic, zoomed from cosmic to bathroom. What's Chapter 1's feel?
+
 **A:** [Awaiting response]
 
