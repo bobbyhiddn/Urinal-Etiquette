@@ -85,5 +85,19 @@ The manager comes, I tell her, our server has been great, but there have been nu
 
 ## Q7: The book's core claim is "know the optimal, then choose freely." In the restaurant, what was the optimal? And did you take it, or choose something else?
 
+**A:** The optimal can't be known. You can make correct decisions. I believe I took it, because the incorrect decisions would be the one that didn't align to justice. We can also talk about the biblical definition of peace here, without preaching, which is to ensure the low is not too low; and that the high is not too high. Peace is justice. I even told the manager that I don't want to disservice them, I just want justice for our disservice.
+
+**Captured insight:**
+- Optimal can't be fully known; you can only make correct decisions
+- Correct = aligned to justice
+- Biblical peace (without preaching): low not too low, high not too high
+- Peace IS justice (not absence of conflict)
+- The framing: "I don't want to disservice you, I just want justice for our disservice"
+- Mutuality in the ask - not exploitation, but balance
+
+---
+
+## Q8: How does Chapter 1 land the reader after the Prelude? The Prelude says "geometry exists everywhere." What should the reader walk away knowing after Chapter 1 that they didn't know after the Prelude?
+
 **A:** [Awaiting response]
 
