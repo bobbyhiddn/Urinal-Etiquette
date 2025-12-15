@@ -135,5 +135,30 @@ The manager comes, I tell her, our server has been great, but there have been nu
 
 ## Q10: We have 10 Q&As. Before I draft, one final check: Is there anything about Chapter 1's tone or structure that should differ from the Prelude? The Prelude was declarative, prophetic, zoomed from cosmic to bathroom. What's Chapter 1's feel?
 
-**A:** [Awaiting response]
+**A:** C is my feel. My goal is not to be teacher but motivator and fellow player. The audience is my son when he arrives to an age where he needs to play, but for now, I'm writing to the men who ask me how they need to grow.
+
+**Captured insight:**
+- Tone: Path C (conversational challenge, one-on-one, in-your-face)
+- Role: Motivator and fellow player, not teacher
+- Audience: His son (future), men who ask how to grow (present)
+- Posture: In the game with them, not above them
+
+---
+
+## Session Complete
+
+**10 Q&As captured. Ready to draft Chapter 1: Urinal Strategy.**
+
+### Draft Parameters:
+- **Structure:** Call to action opening → Pattern recognition → Player types
+- **Tone:** Conversational challenge, fellow player, motivator
+- **Content seeds:**
+  - Risk calculus, exposure minimization
+  - Restaurant scenario as proof of concept
+  - Misguided peace as middle urinal behavior
+  - Discomfort is the cost of conviction
+  - Peace = justice, not absence of conflict
+  - The game is open to all; currency is attention
+- **Audience:** Men learning to grow, future son
+- **Constraints:** No "Not X, it's Y" / No em-dashes / No hedging
 
