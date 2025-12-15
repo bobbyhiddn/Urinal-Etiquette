@@ -73,5 +73,17 @@ The manager comes, I tell her, our server has been great, but there have been nu
 
 ## Q6: When you hold position (like saying "thank you, that would be great"), what's the internal experience? Is there discomfort? Do you have to override something?
 
+**A:** There is always discomfort in conviction. I have to override the desire to let someone else's game play when it's not to the advantage of my party.
+
+**Captured insight:**
+- Discomfort is inherent to conviction
+- Override required: the pull to let someone else's game play out
+- Key frame: "my party" - you're protecting a group, not just self
+- Discomfort is not a sign of wrongness; it's the cost of holding position
+
+---
+
+## Q7: The book's core claim is "know the optimal, then choose freely." In the restaurant, what was the optimal? And did you take it, or choose something else?
+
 **A:** [Awaiting response]
 
